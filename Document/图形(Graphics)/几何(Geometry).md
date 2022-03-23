@@ -1,4 +1,4 @@
-# Geometry
+# [Geometry](https://docs.microsoft.com/zh-cn/dotnet/api/system.windows.media.geometry?view=windowsdesktop-6.0)
 命名空间:
 System.Windows.Media
 
@@ -6,12 +6,7 @@ System.Windows.Media
 PresentationCore.dll
 
 继承
-Object->
-DispatcherObject->
-DependencyObject->
-Freezable->
-Animatable->
-Geometry->
+Object->DispatcherObject->DependencyObject->Freezable->Animatable->Geometry
 
 派生
 * System.Windows.Media.CombinedGeometry

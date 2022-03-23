@@ -1,4 +1,4 @@
-# Shape
+# [Shape](https://docs.microsoft.com/zh-CN/dotnet/api/system.windows.shapes.shape?view=windowsdesktop-6.0)
 命名空间:
 System.Windows.Shapes
 
@@ -6,13 +6,7 @@ System.Windows.Shapes
 PresentationFramework.dll
 
 继承
-Object->
-DispatcherObject->
-DependencyObject->
-Visual->
-UIElement->
-FrameworkElement->
-Shape
+Object->DispatcherObject->DependencyObject->Visual->UIElement->FrameworkElemen->Shapes
 
 派生
 
@@ -33,7 +27,9 @@ Shape
 # Line
 
 # Path
-
+## 示例
+### 代码
+### XAML
 # Polygon
 
 # Polyline
