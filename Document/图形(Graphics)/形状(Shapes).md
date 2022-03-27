@@ -1,11 +1,8 @@
 # [Shape](https://docs.microsoft.com/zh-CN/dotnet/api/system.windows.shapes.shape?view=windowsdesktop-6.0)
 + 命名空间: System.Windows.Shapes
-
 + 程序集: PresentationFramework.dll
-
 ### 继承
     Object-> DispatcherObject-> DependencyObject-> Visual-> UIElement-> FrameworkElement-> sShapes
-
 ### 派生
 * System.Windows.Shapes.Ellipse
 * System.Windows.Shapes.Line
